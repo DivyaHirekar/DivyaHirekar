@@ -1,7 +1,6 @@
 # Hi 👋, I'm Divya Hirekar  
 
-🎯 Aspiring Data Analyst  
-📊 SQL | Python | Excel | Power BI  
+🎯 Aspiring Data Analyst | SQL | Python | Excel | Power BI  
 📍 Hyderabad, India  
 
 ---
