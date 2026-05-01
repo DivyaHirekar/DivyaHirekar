@@ -26,7 +26,7 @@
 
 ### 📌 Pizza Sales Analysis (SQL)  
 
-[![Code](https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/DivyaHirekar/YOUR_REPO_LINK)
+(https://github.com/DivyaHirekar/pizza-sales-analysis)
 - Analyzed sales data using SQL to identify top products and revenue trends
 ---
 
