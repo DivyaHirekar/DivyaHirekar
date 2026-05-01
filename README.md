@@ -34,7 +34,8 @@
 
 [![Code](https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/DivyaHirekar/YouTube-Analysis-PowerBI)
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://github.com/DivyaHirekar/YouTube-Analysis-PowerBI/blob/main/dashboard/YOUTUBE%20ANALYSIS%20DASHBOARD.pdf)
+[![OUTPUT](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://github.com/DivyaHirekar/YouTube-Analysis-PowerBI/blob/main/dashboard/YOUTUBE%20ANALYSIS%20DASHBOARD.pdf)
+
 - Built Power BI dashboard to track views, likes, and engagement metrics
 ---
 
