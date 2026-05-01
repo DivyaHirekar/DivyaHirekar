@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi 👋, I'm Divya Hirekar  
 
-<!--
-**DivyaHirekar/DivyaHirekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Analyst  
+📊 SQL | Python | Excel | Power BI  
+📍 Hyderabad, India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+- 📈 Passionate about analyzing data and finding insights  
+- 🧹 Skilled in Data Cleaning, EDA, and Visualization  
+- 📊 Built real-world projects on Sales Analysis & Dashboards  
+- 💡 Focused on solving business problems using data  
+
+---
+
+## 🛠️ Skills  
+- 💻 Python (Pandas, NumPy)  
+- 🗄️ SQL (MySQL)  
+- 📊 Power BI (DAX, Dashboards)  
+- 📑 Excel (Pivot Tables, VLOOKUP)  
+
+---
+
+## 🚀 Featured Projects  
+
+### 📌 Pizza Sales Analysis (SQL)  
+
+[![Code](https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/DivyaHirekar/YOUR_REPO_LINK)
+
+---
+
+### 📌 YouTube Analytics Dashboard (Power BI)  
+
+[![Code](https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/DivyaHirekar/YOUR_REPO_LINK)
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](YOUR_LINK_HERE)
+
+---
+
+## 📫 Connect with Me  
+- 🔗 LinkedIn: https://www.linkedin.com/in/divya-hirekar7/  
+- 💻 GitHub: https://github.com/DivyaHirekar
+- 📺 YouTube: https://www.youtube.com/@codeunmasked7
+- 📸 Instagram: https://www.instagram.com/codeunmasked7/  
+
+---
+
+⭐ Consistently learning and building in Data Analytics
+
+
