@@ -27,7 +27,7 @@
 ### 📌 Pizza Sales Analysis (SQL)  
 
 [![Code](https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/DivyaHirekar/YOUR_REPO_LINK)
-
+- Analyzed sales data using SQL to identify top products and revenue trends
 ---
 
 ### 📌 YouTube Analytics Dashboard (Power BI)  
@@ -35,7 +35,7 @@
 [![Code](https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/DivyaHirekar/YOUR_REPO_LINK)
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](YOUR_LINK_HERE)
-
+- Built Power BI dashboard to track views, likes, and engagement metrics
 ---
 
 ## 📫 Connect with Me  
