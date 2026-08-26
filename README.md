@@ -24,6 +24,7 @@ Data Analyst with hands-on experience in SQL, Python, Power BI, and Advanced Exc
 **Databases:** MySQL, Microsoft SQL Server
 **BI & Visualization:** Power BI (DAX, Power Query), Advanced Excel, Google Sheets
 **Core Competencies:** Data Cleaning & Wrangling, ETL, KPI Reporting, Data Validation, Root Cause Analysis, Stakeholder Reporting
+**Languages:** Hindi, English, Telugu
 
 ---
 
